@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kagaya-1
 - 👀 I’m interested in Music, Coding
-- 🌱 I’m currently learning Js, MySQL, JSON
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Js, MySQL, JSON, Python
 - 📫 How to reach me just mail me: ibrahim.h@smkn1kotabekasi.sch.id
 - ⚡ Fun fact: Fun
 
