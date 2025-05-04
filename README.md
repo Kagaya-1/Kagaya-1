@@ -1,16 +1,55 @@
-## Hi there 👋
+###
+![banner](https://github.com/user-attachments/assets/635f8824-205e-4ddd-865c-a82c91c839bf)
+###
 
-<!--
-**Kagaya-1/Kagaya-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kagaya-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kagaya-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=kagaya-1&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">こんにちは^_^</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h1 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  👋 Hi, I’m @Kagaya-1 or Yama Makoto.<br>
+  - 📚 Student at SMKN 1 Kota Bekasi<br>
+  - 👀 I’m interested on Music and Coding<br>
+  - 🌱 I’m currently still learning Js, MySQL, PHP, Python<br>
+  - 📫 How to reach me? just mail me: hibbanibrahim09@gmail.com</p>
+
+###
+
+<div align="center">
+  <a href="https://instagram.com/@kagaya.09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="hibbanibrahim09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Hello and welcome to my README.md this is still my early learning about programming, so dont expect too much about this repo:)</p>
+
+###
+
+<h1 align="left">🛠 Language and Tools i used:</h3>
+
+###
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+###
+
+<h1 align="left">↗️ Contributed Repo:</h3>
+
+###
+![](https://github-contributor-stats.vercel.app/api?username=Kagaya-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+###
