@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  👋 Hi, I’m @Kagaya-1 or Yama Makoto.<br>
+  👋 Hi, I’m @kagaya-01<br>
   - 📚 Student at SMKN 1 Kota Bekasi<br>
   - 👀 I’m interested on Music and Coding<br>
   - 🌱 I’m currently still learning Js, MySQL, PHP, Python<br>
