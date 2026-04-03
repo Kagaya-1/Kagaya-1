@@ -1,7 +1,8 @@
 
 ###
-![banner](https://github.com/user-attachments/assets/635f8824-205e-4ddd-865c-a82c91c839bf)
-###
+<div align="center">
+  <img height="200" src="https://i.imgur.com/YU8Ua1i.png"  />
+</div>
 
 <h3 align="center">こんにちは^_^</h1>
 
