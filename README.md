@@ -46,11 +46,11 @@
 
 <h1 align="left">📊 Stats:</h1>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kagaya-01&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kagaya01x&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <h1 align="left">↗️ Contributed Repo:</h3>
 
 ###
-![](https://github-contributor-stats.vercel.app/api?username=kagaya-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kagaya01x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
