@@ -15,8 +15,8 @@
 <p align="left">
   👋 Hi, I’m kagaya<br>
   - 📚 Student at SMKN 1 Kota Bekasi<br>
-  - 👀 I’m interested on Music and Coding<br>
-  - 🌱 I’m currently still learning Js, MySQL, PHP, Python<br>
+  - 👀 I’m interested in Music and Coding<br>
+  - 🌱 I’m currently still learning Ts, Node, React, Python<br>
   - 📫 How to reach me? just mail me: hibbanibrahim09@gmail.com</p>
 
 ###
