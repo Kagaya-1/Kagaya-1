@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  👋 Hi, I’m @kagaya-01<br>
+  👋 Hi, I’m kagaya<br>
   - 📚 Student at SMKN 1 Kota Bekasi<br>
   - 👀 I’m interested on Music and Coding<br>
   - 🌱 I’m currently still learning Js, MySQL, PHP, Python<br>
@@ -48,9 +48,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kagaya01x&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<h1 align="left">↗️ Contributed Repo:</h3>
-
-###
-![](https://github-contributor-stats.vercel.app/api?username=kagaya01x&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-###
+<!-- <h1 align="left">↗️ Contributed Repo:</h3>
